@@ -17,7 +17,7 @@ I build software, automations, and data products, from backend and databases to 
 ## 👨‍💻 About me
 
 - 🎓 Master's student in **Data Science** at Schiller International University
-- 📜 Postgraduate degree in **Data Science & AI** (Anhanguera, 2026)
+- 📜 Postgraduate degree in **Data Science & AI**
 - 🏛️ Bachelor's degrees in **Computer Science** and **Information Systems**
 - 🛠️ Background in IT support, full stack development, and data/automation
 - 📍 Based in Heidelberg, Germany
