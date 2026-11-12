@@ -6,7 +6,7 @@
 
 I build software, automations, and data products, from backend and databases to dashboards.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-moura-7779a9232)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-de-moura-santos-7779a9232/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italomourasant9@gmail.com)
 
 
@@ -40,4 +40,4 @@ I build software, automations, and data products, from backend and databases to 
 
 ## 📫 Get in touch
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/italo-moura-7779a9232) or [email](mailto:italomourasant9@gmail.com).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/italo-de-moura-santos-7779a9232/) or [email](mailto:italomourasant9@gmail.com).
